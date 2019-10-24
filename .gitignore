@@ -21,9 +21,7 @@ rescue-backup/
 
 # Windows files
 **/Thumbs.db
+**/desktop.ini
 
 # Production files
 *.zip
-
-# Images
-Images/
