@@ -1,0 +1,33 @@
+"Source:","D:\Google Drive\Dokumente\Elektronik\Projekte\MAN Adapterplatine\MAN Adapterplatine für KRONE\MAN Adapterplatine.sch"
+"Date:","31.12.2018 19:22:54"
+"Tool:","Eeschema (6.0.0-rc1-dev-557-ge985f797c)"
+"Generator:","D:\Google Drive\configfiles\kicad-lib\scripting\plugins\bom_csv_grouped_custom.py"
+"Component Count:","10"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Order No.","Supplier"
+"","","C1","10n/100V","device:C","Capacitors_SMD:C_0805","~","CL21B103KCANNNC","TME"
+"","","C2","22µ/25V","device:CP","Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Reflow","~","T491D226M025AT","TME"
+"","","C3","100n/50V","device:C","Capacitors_SMD:C_0603","~","VJ0603Y104KXACW1BC","TME"
+"","","C4","100n/50V","device:C","Capacitors_SMD:C_0603","~","VJ0603Y104KXACW1BC","TME"
+"","","J1","Cable","Connector_Generic:Conn_02x10_Odd_Even","Connectors:IDC_Header_Straight_20pins","~","T821-1-20-S1","TME"
+"","","J2","Module","Connector_Generic:Conn_02x05_Odd_Even","Socket_Strips:Socket_Strip_Straight_2x05","~","ZL262-10DG","TME"
+"","","RN1","4x10k","device:R_Pack04","Resistors_SMD:R_Array_Convex_4x0603","~","YC164-JR-0710K","TME"
+"","","RN2","4x10k","device:R_Pack04","Resistors_SMD:R_Array_Convex_4x0603","~","YC164-JR-0710K","TME"
+"","","SW1","Address","Switch:SW_DIP_x08","Buttons_Switches_THT:SW_DIP_x8_Slide","","EAH108E","TME"
+"","","U1","74HC165","74xx:74LS165","Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm","http://www.ti.com/lit/gpn/sn74LS165","74HC165D.653","TME"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Order No.","Supplier"
+"1","1","C1","10n/100V","device:C","Capacitors_SMD:C_0805","~","CL21B103KCANNNC","TME"
+"2","1","C2","22µ/25V","device:CP","Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Reflow","~","T491D226M025AT","TME"
+"3","2","C3,C4","100n/50V","device:C","Capacitors_SMD:C_0603","~","VJ0603Y104KXACW1BC","TME"
+"4","1","J1","Cable","Connector_Generic:Conn_02x10_Odd_Even","Connectors:IDC_Header_Straight_20pins","~","T821-1-20-S1","TME"
+"5","1","J2","Module","Connector_Generic:Conn_02x05_Odd_Even","Socket_Strips:Socket_Strip_Straight_2x05","~","ZL262-10DG","TME"
+"6","2","RN2,RN1","4x10k","device:R_Pack04","Resistors_SMD:R_Array_Convex_4x0603","~","YC164-JR-0710K","TME"
+"7","1","SW1","Address","Switch:SW_DIP_x08","Buttons_Switches_THT:SW_DIP_x8_Slide","","EAH108E","TME"
+"8","1","U1","74HC165","74xx:74LS165","Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm","http://www.ti.com/lit/gpn/sn74LS165","74HC165D.653","TME"
