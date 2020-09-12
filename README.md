@@ -1,4 +1,4 @@
 # What's this?
-See my [pySplitFlap](https://github.com/Mezgrman/pySplitFlap) repo.
+See my [pyFIS](https://github.com/Mezgrman/pyFIS) repo.
 
 ![Finished board](/images/fbue.jpg?raw=true)
